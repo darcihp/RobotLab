@@ -4,6 +4,11 @@ This repository contains the source code and dataset used in the development and
 
 The project investigates whether wheel separation can be treated as a measurable time-varying parameter, improving adherence between controlled experiments and real-world motion.
 
+<p align="center">
+  <img src="img/img1.jpeg" width="45%">
+  <img src="img/img2.jpeg" width="45%">
+</p>
+
 ---
 
 ## 📌 Project Overview
@@ -94,7 +99,7 @@ Eduardo Todt
 Federal University of Paraná (UFPR)
 
 ---
-
 ## 📜 License
 
-License to be defined (MIT recommended for code-based research projects).
+This project is licensed under the MIT License.  
+See the [LICENSE](./LICENSE) file for details.
